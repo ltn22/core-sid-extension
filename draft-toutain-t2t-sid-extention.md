@@ -1,7 +1,7 @@
 ---
 stand_alone: true
 ipr: trust200902
-docname: draft-toutain-t2t-sid-extension
+docname: draft-toutain-core-sid-extension
 cat: std
 pi:
   symrefs: 'yes'
@@ -12,7 +12,7 @@ pi:
 
 title: SID Extension to efficiently manipulate YANG Data Models
 abbrev: SID Extension
-wg: t2t Research Group
+wg: core working group
 author:
 - ins: J. A. Fernandez
   name: Javier A. Fernandez
