@@ -14,24 +14,6 @@ title: SID Extension to efficiently manipulate YANG Data Models
 abbrev: SID Extension
 wg: t2t Research Group
 author:
-- ins: L. Toutain
-  name: Laurent Toutain
-  org: Institut MINES TELECOM; IMT Atlantique
-  street:
-  - 2 rue de la Chataigneraie
-  - CS 17607
-  city: 35576 Cesson-Sevigne Cedex
-  country: France
-  email: Laurent.Toutain@imt-atlantique.fr
-- ins: M. Gudi
-  name: Manoj Gudi
-  org: Institut MINES TELECOM; IMT Atlantique
-  street:
-  - 2 rue de la Chataigneraie
-  - CS 17607
-  city: 35576 Cesson-Sevigne Cedex
-  country: France
-  email: manoj.gudi@imt-atlantique.net
 - ins: J. A. Fernandez
   name: Javier A. Fernandez
   org: Institut MINES TELECOM; IMT Atlantique
@@ -41,6 +23,33 @@ author:
   city: 35576 Cesson-Sevigne Cedex
   country: France
   email: javier-alejandro.fernandez@imt-atlantique.fr 
+- ins: M. Gudi
+  name: Manoj Gudi
+  org: Institut MINES TELECOM; IMT Atlantique
+  street:
+  - 2 rue de la Chataigneraie
+  - CS 17607
+  city: 35576 Cesson-Sevigne Cedex
+  country: France
+  email: manoj.gudi@imt-atlantique.net
+- ins: L. Toutain
+  name: Laurent Toutain
+  org: Institut MINES TELECOM; IMT Atlantique
+  street:
+  - 2 rue de la Chataigneraie
+  - CS 17607
+  city: 35576 Cesson-Sevigne Cedex
+  country: France
+  email: Laurent.Toutain@imt-atlantique.fr
+- ins: V. Vilímek
+  name: Vojtěch Vilímek
+  org: CZ.NIC
+  street: 
+  - Milesovska 1136/5
+  city: 13000 Praha
+  country: Czech Republic
+  email: vojtech.vilimek@nic.cz
+
 normative:  
   RFC2119:
   RFC7228:
